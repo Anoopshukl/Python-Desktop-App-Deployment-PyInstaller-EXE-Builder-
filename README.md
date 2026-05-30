@@ -36,26 +36,6 @@ pyinstaller -F -w --icon=app.ico main.py
 pyinstaller -F -w --add-data "assets;assets" main.py
 ```
 
-## Project Structure
-
-Python-Desktop-App-Deployment/
-
-├── README.md
-
-├── requirements.txt
-
-├── src/
-
-│   └── main.py
-
-├── assets/
-
-│   ├── logo.png
-
-│   └── background.png
-
-└── build/
-
 ## Skills Demonstrated
 
 * Software Deployment
