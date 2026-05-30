@@ -1,9 +1,14 @@
 # Python Desktop Application Deployment
 
-A practical project demonstrating how to package Python desktop applications into professional standalone Windows executables using PyInstaller.
+
+
+
+
+# 🎮 CyberCalc Pro
+A futuristic gaming-style calculator built with Python and PyQt6 featuring RGB neon effects, dark theme UI, scientific functions, keyboard shortcuts, and modern desktop application design.
+
 
 ## Features
-
 * Convert Python scripts into EXE files
 * Package PyQt5 / PyQt6 applications
 * Add custom application icons
@@ -14,7 +19,6 @@ A practical project demonstrating how to package Python desktop applications int
 * Windows application packaging
 
 ## Technologies
-
 * Python
 * PyInstaller
 * PyQt5
