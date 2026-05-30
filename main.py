@@ -1,3 +1,9 @@
+# pip install pyqt6
+#import PyQt6.QtCore
+# Print version
+#print(PyQt6.QtCore.PYQT_VERSION_STR)
+
+
 import sys
 from PyQt6.QtWidgets import QApplication, QWidget, QGridLayout, QPushButton, QLineEdit, QVBoxLayout
 from PyQt6.QtCore import Qt
